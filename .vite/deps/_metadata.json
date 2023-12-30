@@ -1,0 +1,142 @@
+{
+  "hash": "6e6b497d",
+  "configHash": "0716f3f2",
+  "lockfileHash": "4c58d63d",
+  "browserHash": "50862a95",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "3acbaa24",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "25148eb9",
+      "needsInterop": true
+    },
+    "react-bootstrap/Badge": {
+      "src": "../../node_modules/react-bootstrap/esm/Badge.js",
+      "file": "react-bootstrap_Badge.js",
+      "fileHash": "f4c04cde",
+      "needsInterop": false
+    },
+    "react-bootstrap/Button": {
+      "src": "../../node_modules/react-bootstrap/esm/Button.js",
+      "file": "react-bootstrap_Button.js",
+      "fileHash": "a7867959",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "90a8be5f",
+      "needsInterop": false
+    },
+    "react-redux": {
+      "src": "../../node_modules/react-redux/dist/react-redux.mjs",
+      "file": "react-redux.js",
+      "fileHash": "e14ac3bf",
+      "needsInterop": false
+    },
+    "react-bootstrap/Container": {
+      "src": "../../node_modules/react-bootstrap/esm/Container.js",
+      "file": "react-bootstrap_Container.js",
+      "fileHash": "fa1e7e32",
+      "needsInterop": false
+    },
+    "react-bootstrap/Nav": {
+      "src": "../../node_modules/react-bootstrap/esm/Nav.js",
+      "file": "react-bootstrap_Nav.js",
+      "fileHash": "c32355ee",
+      "needsInterop": false
+    },
+    "react-bootstrap/Navbar": {
+      "src": "../../node_modules/react-bootstrap/esm/Navbar.js",
+      "file": "react-bootstrap_Navbar.js",
+      "fileHash": "91e99ad3",
+      "needsInterop": false
+    },
+    "react-bootstrap/NavDropdown": {
+      "src": "../../node_modules/react-bootstrap/esm/NavDropdown.js",
+      "file": "react-bootstrap_NavDropdown.js",
+      "fileHash": "af669c69",
+      "needsInterop": false
+    },
+    "react-bootstrap/Col": {
+      "src": "../../node_modules/react-bootstrap/esm/Col.js",
+      "file": "react-bootstrap_Col.js",
+      "fileHash": "8ae2c88d",
+      "needsInterop": false
+    },
+    "react-bootstrap/Form": {
+      "src": "../../node_modules/react-bootstrap/esm/Form.js",
+      "file": "react-bootstrap_Form.js",
+      "fileHash": "20c1eb3d",
+      "needsInterop": false
+    },
+    "@reduxjs/toolkit": {
+      "src": "../../node_modules/@reduxjs/toolkit/dist/redux-toolkit.modern.mjs",
+      "file": "@reduxjs_toolkit.js",
+      "fileHash": "8be8f7bd",
+      "needsInterop": false
+    },
+    "react-bootstrap/Table": {
+      "src": "../../node_modules/react-bootstrap/esm/Table.js",
+      "file": "react-bootstrap_Table.js",
+      "fileHash": "184cc7fb",
+      "needsInterop": false
+    },
+    "react-bootstrap/Row": {
+      "src": "../../node_modules/react-bootstrap/esm/Row.js",
+      "file": "react-bootstrap_Row.js",
+      "fileHash": "38f5e8a6",
+      "needsInterop": false
+    },
+    "axios": {
+      "src": "../../node_modules/axios/index.js",
+      "file": "axios.js",
+      "fileHash": "96153f83",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-BD7FW5FD": {
+      "file": "chunk-BD7FW5FD.js"
+    },
+    "chunk-IIPNIVK5": {
+      "file": "chunk-IIPNIVK5.js"
+    },
+    "chunk-IXVNGTCA": {
+      "file": "chunk-IXVNGTCA.js"
+    },
+    "chunk-QYUWZYSC": {
+      "file": "chunk-QYUWZYSC.js"
+    },
+    "chunk-CZFMXYM7": {
+      "file": "chunk-CZFMXYM7.js"
+    },
+    "chunk-DXOUNB47": {
+      "file": "chunk-DXOUNB47.js"
+    },
+    "chunk-K3A7FW76": {
+      "file": "chunk-K3A7FW76.js"
+    },
+    "chunk-27WTXDTH": {
+      "file": "chunk-27WTXDTH.js"
+    },
+    "chunk-IJIK6REI": {
+      "file": "chunk-IJIK6REI.js"
+    },
+    "chunk-523E5LGA": {
+      "file": "chunk-523E5LGA.js"
+    },
+    "chunk-JBG67EE7": {
+      "file": "chunk-JBG67EE7.js"
+    },
+    "chunk-UV5CTPV7": {
+      "file": "chunk-UV5CTPV7.js"
+    }
+  }
+}
